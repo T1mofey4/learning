@@ -48,7 +48,6 @@ func main() {
 		fmt.Println(myRecord)
 	} else {
 		fmt.Println(err)
-
 	}
 
 }
